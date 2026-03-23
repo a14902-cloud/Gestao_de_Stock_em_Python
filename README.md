@@ -1,2 +1,2 @@
-# Gest-o_de_Stock_em_Python
+# Gestão_de_Stock_em_Python
 Renato Carneiro
