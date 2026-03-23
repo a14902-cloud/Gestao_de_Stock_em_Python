@@ -34,6 +34,6 @@ O programa deverá permitir:
 ## ▶ Como Executar
 
 1. Certifica-te de que tens **Python 3** instalado.  
-2. Guarda o ficheiro como `gestao_stock.py`.  
+2. Guarda o ficheiro como `1I-14902-EXPA04.py`.  
 3. Executa no terminal:
 
